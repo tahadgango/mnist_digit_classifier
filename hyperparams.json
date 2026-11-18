@@ -1,0 +1,47 @@
+[
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.01
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.03
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.05
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.07
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.1
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.2
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.3
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.4
+    },
+    {
+        "batch_size": 128,
+        "epochs": 7,
+        "lr": 0.5
+    }
+]

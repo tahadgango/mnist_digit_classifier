@@ -1,0 +1,16 @@
+# Core notebook and model dependencies
+torch
+torchvision
+numpy
+matplotlib
+pandas
+scikit-learn
+tqdm
+Pillow
+torchsummary
+ipython
+jupyter
+
+# Imported by src/helper.py for image loading and HDF5 helpers
+opencv-python
+h5py
