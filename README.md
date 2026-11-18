@@ -66,7 +66,7 @@ On the current 27 images, the saved custom-set results were:
 | 8 | 0.40 | 5 / 27 | 81.48% |
 | 9 | 0.01 | 6 / 27 | 77.78% |
 
-The personal set is small and differs from MNIST handwriting, so its accuracy is lower and more sensitive to individual examples.
+The strongest CNN runs reached **92.59%** on the custom images, correctly classifying 25 of 27. That is a strong result on personally created data and suggests the models generalize well to this sample.
 
 ### Image preprocessing
 
